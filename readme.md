@@ -1,7 +1,7 @@
 # MEDWARE | PROJETOS DE BI e ANALYTICS 
 
 REPOSITÓRIO PARA ARMAZENAR TODOS OS BI DESENVOLVIDOS PARA OS CLIENTES DA [MEDWARE](MEDWARE.COM.BR) E TAMBÉM PARA MOSTRAR TODO O CONHECIMENTO ADQUIRIDO ATRAVÉS DE ALGUNS CURSOS
-## 📔 Cursos que estou fazendo para dominiar a análise de dados
+## 📔 Cursos necessários para dominiar a análise de dados - Boa sorte!
 - [Python Data Analytics(DIO)](https://web.dio.me/track/bootcamp-squadio)
 - [Python Impressionador(Hashtag Treinamentos)](https://www.hashtagtreinamentos.com/curso-python)
 - [Formação Plena em Ciência de Dados [2024] (Udemy)](https://www.udemy.com/course/formacao-em-ciencia-de-dados/?couponCode=ST14MT32124)
